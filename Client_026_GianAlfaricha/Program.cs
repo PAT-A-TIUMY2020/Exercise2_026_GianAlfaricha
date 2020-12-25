@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.ServiceModel;
-using Service_026_GianAlfaricha;
 
-
-namespace Exercise2_026_GianAlfaricha
+namespace Client_026_GianAlfaricha
 {
     static class Program
     {
