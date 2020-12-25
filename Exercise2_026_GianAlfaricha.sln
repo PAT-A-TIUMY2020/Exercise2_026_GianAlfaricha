@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_026_GianAlfaricha", "Service_026_GianAlfaricha\Service_026_GianAlfaricha.csproj", "{50366554-13C6-4737-96AE-8F06B66696C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_026_GianAlfaricha", "Client_026_GianAlfaricha\Client_026_GianAlfaricha.csproj", "{2789B520-E181-4E62-9AD3-38D0C6BC3B38}"
+	ProjectSection(ProjectDependencies) = postProject
+		{50366554-13C6-4737-96AE-8F06B66696C4} = {50366554-13C6-4737-96AE-8F06B66696C4}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.Runtime.Serialization;
 using System.Net;
+using RestSharp;
 
 
 namespace Client_026_GianAlfaricha
